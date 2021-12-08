@@ -1,3 +1,3 @@
-require './app'
+require './palindromes'
 
 run Sinatra::Application
